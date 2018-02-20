@@ -50,6 +50,10 @@ At this point we need to know all the technical specifications of the hardware a
 
 *Ram
 
+#### Technologies used  
+
+Of the technology that we are going to use in our project, for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? Static or dynamic compilation?
+
 ### Technical design
 
 Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
