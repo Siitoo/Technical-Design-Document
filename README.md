@@ -1,41 +1,18 @@
 ﻿# Technical Design Document (TDD)
 
-“I am [Alfonso Sanchez-Cortes](https://github.com/Siitoo), student of the [Bachelor’s Degree in
+I am [Alfonso Sanchez-Cortes](https://github.com/Siitoo), student of the [Bachelor’s Degree in
 Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
-subject Project 2, under supervision of lecturer [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).”
+subject Project 2, under supervision of lecturer [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).
 
-You can use the [editor on GitHub](https://github.com/Siitoo/Technical-Design-Document-TDD-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## ¿What's a TDD?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The technical design document, usually written by the technical director or the programming leader,contains a technical description of the production of a game.
+It includes details of all the software, hardware and game engine components that will be used during production, and what those particular tools will provide to the development team,
+and includes a brief description of how the code will be written. The document is updated in different stages of the production of the game. It often comes and goes between the editor
+and the developer as the technical details are better defined. For that reason, there is a box on the first page of the document that describes the changes made to the file and who made the changes.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Siitoo/Technical-Design-Document-TDD-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In summary, TDD is a statement of the solution to a specific game concept outlined in a “Game Design Document” (GDD):
+-Coding standards for the work of programmers.
+-Identify technical challenges.
+-Plan for technical solutions.
+-Set forth asset format guidelines.
