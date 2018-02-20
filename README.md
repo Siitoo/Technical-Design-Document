@@ -26,8 +26,15 @@ The documentation should also provide an overview of what all the functions and 
 
 #### Coding conventions
 
-Set of guidelines for a specific programming language, in the TDD we will establish what conventions we use and what we do not, these rules will be respected throughout the development.
-See [coding conventions c++](http://geosoft.no/development/cppstyle.html)
+Set of guidelines for a specific programming language, in the TDD we will establish what conventions we use and what we do not, these rules will be respected throughout the development.  
+
+See [coding conventions c++](http://geosoft.no/development/cppstyle.html).  
+
+#### Programming Style
+
+With the objective that all the programmers of the project use the same style to facilitate the reading of the code, rules will be defined to create a style for all. For example:
+
+!(Conventions.png)[/docs/conventions.png]
 
 
 
