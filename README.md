@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+﻿# Technical Design Document (TDD)
+
+“I am [Alfonso Sanchez-Cortes](https://github.com/Siitoo), student of the [Bachelor’s Degree in
+Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
+subject Project 2, under supervision of lecturer [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).”
 
 You can use the [editor on GitHub](https://github.com/Siitoo/Technical-Design-Document-TDD-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
