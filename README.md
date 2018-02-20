@@ -54,6 +54,20 @@ At this point we need to know all the technical specifications of the hardware a
 
 Of the technology that we are going to use in our project, for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? Static or dynamic compilation?
 
+#### File types
+
+What types of files are we going to use?  
+
+For images jpg, png, etc?  
+
+For the UML?  
+
+For the music and the sounds effects?  
+
+For the documents? 
+
+In this section we detail all the types of files that will be included in the development process, their extensions, their maximum capacity and their characteristics.
+
 ### Technical design
 
 Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
