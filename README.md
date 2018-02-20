@@ -68,6 +68,10 @@ For the documents?
 
 In this section we detail all the types of files that will be included in the development process, their extensions, their maximum capacity and their characteristics.
 
+#### Data layout
+
+In the previous section we have defined what types of files we are going to use and their characteristics, in this we will explain how the information is distributed in the data. How to save a game or how and where we keep our player's statistics.
+
 ### Technical design
 
 Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
