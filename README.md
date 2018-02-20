@@ -28,3 +28,8 @@ The documentation should also provide an overview of what all the functions and 
 
 Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
 Tool instructions provide information on how to use the tools. 
+
+### Tools Instructions
+
+Tool instructions provide information on how to use the tools. For example, an engineer and designer will work together to document how the scripting tools work. 
+These tool instructions must be updated when any changes are made to the tool functionality; otherwise, the documentation will quickly become unhelpful and even obsolete.
