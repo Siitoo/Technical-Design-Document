@@ -36,7 +36,19 @@ With the objective that all the programmers of the project use the same style to
 
 ![conventions](/docs/conventions.jpg)
 
+#### Hardware and software specifications
 
+At this point we need to know all the technical specifications of the hardware and software with which we will work, example:  
+  
+*Numbers of CPUs  
+
+*Total memory of each computer  
+
+*Processor  
+
+*All characteristics of GPU  
+
+*Ram
 
 ### Technical design
 
