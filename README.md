@@ -16,7 +16,7 @@ In summary, TDD is a statement of the solution to a specific game concept outlin
 *Technical design
 *Tool instructions
 
-# Coding standards
+### Coding standards
 
 Documentation on the coding standards includes specifics on coding conventions, hardwares and software specifications, naming conventions, technologies used(including middleware), file types, data layout, and any other technical information that is necessary for developing the game. 
 The documentation should also provide an overview of what all the functions and data do, and how they interact with each other.
