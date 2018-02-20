@@ -34,7 +34,7 @@ See [coding conventions c++](http://geosoft.no/development/cppstyle.html).
 
 With the objective that all the programmers of the project use the same style to facilitate the reading of the code, rules will be defined to create a style for all. For example:
 
-![conventions](docs/conventions.png)
+![conventions](/docs/conventions.png)
 
 
 
