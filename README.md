@@ -72,6 +72,29 @@ In this section we detail all the types of files that will be included in the de
 
 In the previous section we have defined what types of files we are going to use and their characteristics, in this we will explain how the information is distributed in the data. How to save a game or how and where we keep our player's statistics.
 
+#### UML structure
+
+Defined all the above only remains to know how we are going to organize the code, its modules and its different factories (create entities, or GUI).
+For this we will use UML structures, but there are different types:  
+
+*[Class diagram](https://en.wikipedia.org/wiki/Class_diagram) 
+
+*[Package diagram](https://en.wikipedia.org/wiki/Package_diagram)  
+
+*[Object diagram](https://en.wikipedia.org/wiki/Object_diagram)  
+
+*[Component diagram](https://en.wikipedia.org/wiki/Component_diagram)  
+
+*[Composite structure diagram](https://en.wikipedia.org/wiki/Composite_structure_diagram) 
+
+*[Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram)
+
+We normally use class diagram, object diagram and composite structure diagram.
+A package diagram is a good idea to make an outline of how we will organize all the files(Resouce Management).
+
+![classdiagram](/docs/classdiagram.jpg)
+![objectdiagram](/docs/objectdiagram.jpg)
+
 ### Technical design
 
 Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
