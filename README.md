@@ -70,7 +70,9 @@ In this section we detail all the types of files that will be included in the de
 
 #### Data layout
 
-In the previous section we have defined what types of files we are going to use and their characteristics, in this we will explain how the information is distributed in the data. How to save a game or how and where we keep our player's statistics.
+In the previous section we have defined what types of files we are going to use and their characteristics, in this we will explain how the information is distributed in the data. How to save a game or how and where we keep our player's statistics.  
+For example:  
+![examplePlayerData](/docs/examplePdata.jpg)
 
 #### UML structure
 
