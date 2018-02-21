@@ -174,6 +174,38 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 	*TDD version number(he number of the version varies depending on how many times the document has been modified)  
 
+2.Add a **table of contents** whit:
+
+	*Introduction  
+
+	*Technical Overview  
+
+	*Game Mechanics  
+
+	*Build Creation  
+ 
+	*Resource Management and File Formats  
+
+	*Tool Instructions  
+  
+3.We want to explain the game in a general way in **introduction** write:  
+
+	*Purpose of your game  
+
+	*Technical Goals  
+
+	*Target Platform (hardware and software specifications)  
+
+	*External Tools to develop  
+
+	*Development Team  
+
+	*Development Time  
+
+	*Branches Policy  
+
+ 
+
 
  
  
