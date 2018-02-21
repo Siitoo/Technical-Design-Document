@@ -6,9 +6,9 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](<https://es.li
 
 ## ¿What's a TDD?
 
-The technical design document, usually written by the technical director or the programming leader in the pre-production phase,contains a technical description of the production of a game.
-It includes details of all the software, hardware and game engine components that will be used during production, and what those particular tools will provide to the development team,
-and includes a brief description of how the code will be written. The document is updated in different stages of the production of the game. It often comes and goes between the editor
+The technical design document, usually written by the technical director or the programming leader in the pre-production phase, contains a technical description of the production of a game.
+It includes details of all the software, hardware and game engine components that must be used during production, and what those particular tools will provide to the development team,
+and includes a brief description of how the code must be written. The document is updated in different stages of the production of the game. It often comes and goes between the editor
 and the developer as the technical details are better defined. For that reason, there is a box on the first page of the document that describes the changes made to the file and who made the changes.
 
 In summary, TDD is a statement of the solution to a specific game concept outlined in a “Game Design Document” (GDD) and discusses things such as the following:  
@@ -21,7 +21,7 @@ In summary, TDD is a statement of the solution to a specific game concept outlin
 
 ### Coding standards
 
-Documentation on the coding standards includes specifics on coding conventions, hardwares and software specifications, naming conventions, technologies used(including middleware), file types, data layout, and any other technical information that is necessary for developing the game. 
+Documentation on the coding standards includes specifics on coding conventions, hardwares and software specifications, naming conventions, technologies used (including middleware), file types, data layout, and any other technical information that is necessary for developing the game. 
 The documentation should also provide an overview of what all the functions and data do, and how they interact with each other.
 
 #### Coding conventions
@@ -92,7 +92,7 @@ For this we will use UML structures, but there are different types:
 *[Deployment diagram](https://en.wikipedia.org/wiki/Deployment_diagram)
 
 We normally use class diagram, object diagram and composite structure diagram.
-A package diagram is a good idea to make an outline of how we will organize all the files(Resouce Management).
+A package diagram is a good idea to make an outline of how we will organize all the files (Resouce Management).
 
 ![classdiagram](/docs/classdiagram.jpg)
 ![objectdiagram](/docs/objectdiagram.jpg)
@@ -158,7 +158,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 ![brofilerImage](/docs/brofilerImage.jpg)
 
-**The purpose of this research is to know the elements that make up a TDD and how to create it, then we will explain step by step how to create a TDD and at the end we will show an example of an index of a TDD.**
+**The purpose of this research is to know the elements that make up a TDD and how to create it, then we will explain step by step how to create a TDD**
 
 ## Creating a Technical Design Document  
 
@@ -244,8 +244,16 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 ### 8.The last part are for **tools**:  
 
-*Define all the tools we will use and how they work
+*Define all the tools we will use and how they work  
 
+## Links to documentation
+[Coding Conventions C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+[Programming style](https://en.wikipedia.org/wiki/Programming_style)
+[Tutorial how to make and write a TDD](https://www.youtube.com/watch?v=iD7s1kqZOGA)  
+[Example of technical design document](https://drive.google.com/file/d/1DKrVbDIjoRFQ8XfToI-LX436sGfK9nSW/view?usp=sharing)
+[GitBook Phil Duncan: Technical design document](https://www.gitbook.com/book/philduncan/002-technical-design-document/details)
+[What Goes into the Technical Design Document?](https://www.wisdomjobs.com/e-university/game-developing-tutorial-261/what-goes-into-the-technical-design-document-6744.html)
+[Game Development and Production, Erik Bethke](http://index-of.co.uk/Game-Development/Designing/Game%20Development%20and%20Production.pdf)
 
 
 
