@@ -114,3 +114,23 @@ Taking an example of UI system:
 
 **Well, this is the basis, but we will discuss other important issues to be able to create a TDD.**
 
+### Branches policy
+
+We must define how we will work with the code throughout the development time, for this we will use the branch policies. You have to define specific branches in order to develop versions or change the current one without interrupting the rest of the team. The main branches are:  
+  
+*Master: release production.  
+
+*Develop : work to next release.  
+
+Supporting Branches:  
+
+*Feature : feature for a distant future release.  
+
+*Release: all features for next release are finished.  
+
+*Hotfix: to solve critical error in master version.  
+
+
+  
+![branchesPolicy](/docs/branches.jpg)
+
