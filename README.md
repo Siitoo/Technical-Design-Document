@@ -157,3 +157,25 @@ On the part of analysis platforms we will explain what tools we will use to achi
 The image below shows the [Brofiler tool](http://www.brofiler.com/)  
 
 ![brofilerImage](/docs/brofilerImage.jpg)
+
+**The purpose of this research is to know the elements that make up a TDD and how to create it, then we will explain step by step how to create a TDD and at the end we will show an example of an index of a TDD.**
+
+## Creating a Technical Design Document  
+
+1.Create a **document** with:  
+  
+	*Name of your game  
+
+	*Name of your team(or company)  
+
+	*Members of the group 
+
+	*Current date(it will change every time you update it)  
+
+	*TDD version number(he number of the version varies depending on how many times the document has been modified)  
+
+
+ 
+ 
+
+
