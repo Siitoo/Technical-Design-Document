@@ -192,7 +192,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *Purpose of your game  
 
-*Technical Goals  
+*Technical Goals   
 
 *Target Platform (hardware and software specifications)  
 
@@ -202,7 +202,49 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *Development Time  
 
-	*Branches Policy  
+*Branches Policy  
+
+4.We want to explain a **technical overview** of how we handle the code:  
+
+*Naming Conventions  
+
+*Technologies used  
+
+*Data Layout  
+
+*Libraries  
+
+*Performance budgets  
+
+*Analysis platform 
+
+5.We explain all **mechanics** and how implement it:  
+
+*Overview of mechanics in game  
+
+*Game Structures (which contains the main classes: entities, level,UI, IA...)  
+
+*Structure UML to help Game Structures  
+
+*Main Loop  
+
+*Game States  
+
+*State Functionality  
+
+6.Now we define when and how will we make a **build**:
+
+*All the versions that we are going to create and all the elements to accept this build  
+
+
+
+
+
+   
+
+
+
+  
 
  
 
