@@ -140,8 +140,20 @@ Supporting Branches:
 ![branchesPolicy](/docs/branches.jpg)  
 
 ### Resource management
+
 In the past we define what types of files we will use in the project and its characteristics, we also specify in which other types we keep the data and what they contain, so we just need to know where we keep these files, distributed in folders? With some specific order? If we keep it in folders, will these be compressed?
 A very visual way to define this section would be the use of UML package diagram and deployment model
 
 ![branchesPolicy](/docs/packageModel.jpg)
 
+### Analysis platform and performance budgets
+
+To finish we will deal with the topics of platform analysis and performance budget in a simple way. On the part of the performance budgets we define the objective of FPS(frames per second) to which our game should go when we launch it to the market and how much time we spend as a maximum to the execution of different parts of the code (in ms) such as: logic, audio, graphics, etc.
+
+![fpsTarget](/docs/fpsTarget.jpg) 
+
+On the part of analysis platforms we will explain what tools we will use to achieve this objective and an explanation of how they work, as well as how and when these analyzes will be done.  
+
+The image below shows the [Brofiler tool](http://www.brofiler.com/)  
+
+![brofilerImage](/docs/brofilerImage.jpg)
