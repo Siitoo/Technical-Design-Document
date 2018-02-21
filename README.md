@@ -141,7 +141,7 @@ Supporting Branches:
 
 ### Resource management
 In the past we define what types of files we will use in the project and its characteristics, we also specify in which other types we keep the data and what they contain, so we just need to know where we keep these files, distributed in folders? With some specific order? If we keep it in folders, will these be compressed?
-A very visual way to define this section would be the use of UML package diagram
+A very visual way to define this section would be the use of UML package diagram and deployment model
 
 ![branchesPolicy](/docs/packageModel.jpg)
 
