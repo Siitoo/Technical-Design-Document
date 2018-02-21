@@ -162,7 +162,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 ## Creating a Technical Design Document  
 
-1.Create a **document** with:  
+### 1.Create a **document** with:  
   
 *Name of your game  
 
@@ -174,7 +174,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *TDD version number(he number of the version varies depending on how many times the document has been modified)  
 
-2.Add a **table of contents** whit:
+### 2.Add a **table of contents** whit:
 
 *Introduction  
 
@@ -188,7 +188,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *Tool Instructions  
   
-3.We want to explain the game in a general way in **introduction** write:  
+### 3.We want to explain the game in a general way in **introduction** write:  
 
 *Purpose of your game  
 
@@ -204,7 +204,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *Branches Policy  
 
-4.We want to explain a **technical overview** of how we handle the code:  
+### 4.We want to explain a **technical overview** of how we handle the code:  
 
 *Naming Conventions  
 
@@ -218,7 +218,7 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *Analysis platform 
 
-5.We explain all **mechanics** and how implement it:  
+### 5.We explain all **mechanics** and how implement it:  
 
 *Overview of mechanics in game  
 
@@ -232,17 +232,17 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *State Functionality  
 
-6.Now we define when and how will we make a **build**:
+### 6.Now we define when and how will we make a **build**:
 
 *All the versions that we are going to create and all the elements to accept this build  
 
-7.Now we are going to define all the **file types** that are not the executable and how we **order them(resource management)**:  
+### 7.Now we are going to define all the **file types** that are not the executable and how we **order them(resource management)**:  
 
 *Define the types of files that will be used and properties  
 
 *Define where we store the files and how  
 
-8.The last part are for **tools**:  
+### 8.The last part are for **tools**:  
 
 *Define all the tools we will use and how they work
 
