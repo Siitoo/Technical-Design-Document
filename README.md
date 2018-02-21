@@ -236,6 +236,17 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *All the versions that we are going to create and all the elements to accept this build  
 
+7.Now we are going to define all the **file types** that are not the executable and how we **order them(resource management)**:  
+
+*Define the types of files that will be used and properties  
+
+*Define where we store the files and how  
+
+8.The last part are for **tools**:  
+
+*Define all the tools we will use and how they work
+
+
 
 
 
