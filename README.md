@@ -112,5 +112,5 @@ These tool instructions must be updated when any changes are made to the tool fu
 Taking an example of UI system:
 (insert image and explication)
 
-*Well, this is the basis, but we will discuss other important issues to be able to create a TDD.*
+**Well, this is the basis, but we will discuss other important issues to be able to create a TDD.**
 
