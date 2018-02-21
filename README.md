@@ -164,43 +164,43 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 1.Create a **document** with:  
   
-	*Name of your game  
+*Name of your game  
 
-	*Name of your team(or company)  
+*Name of your team(or company)  
 
-	*Members of the group 
+*Members of the group 
 
-	*Current date(it will change every time you update it)  
+*Current date(it will change every time you update it)  
 
-	*TDD version number(he number of the version varies depending on how many times the document has been modified)  
+*TDD version number(he number of the version varies depending on how many times the document has been modified)  
 
 2.Add a **table of contents** whit:
 
-	*Introduction  
+*Introduction  
 
-	*Technical Overview  
+*Technical Overview  
 
-	*Game Mechanics  
+*Game Mechanics  
 
-	*Build Creation  
+*Build Creation  
  
-	*Resource Management and File Formats  
+*Resource Management and File Formats  
 
-	*Tool Instructions  
+*Tool Instructions  
   
 3.We want to explain the game in a general way in **introduction** write:  
 
-	*Purpose of your game  
+*Purpose of your game  
 
-	*Technical Goals  
+*Technical Goals  
 
-	*Target Platform (hardware and software specifications)  
+*Target Platform (hardware and software specifications)  
 
-	*External Tools to develop  
+*External Tools to develop  
 
-	*Development Team  
+*Development Team  
 
-	*Development Time  
+*Development Time  
 
 	*Branches Policy  
 
