@@ -247,13 +247,20 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 *Define all the tools we will use and how they work  
 
 ## Links to documentation
-[Coding Conventions C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-[Programming style](https://en.wikipedia.org/wiki/Programming_style)
+[Coding Conventions C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)  
+
+[Programming style](https://en.wikipedia.org/wiki/Programming_style)  
+
 [Tutorial how to make and write a TDD](https://www.youtube.com/watch?v=iD7s1kqZOGA)  
-[Example of technical design document](https://drive.google.com/file/d/1DKrVbDIjoRFQ8XfToI-LX436sGfK9nSW/view?usp=sharing)
-[GitBook Phil Duncan: Technical design document](https://www.gitbook.com/book/philduncan/002-technical-design-document/details)
-[What Goes into the Technical Design Document?](https://www.wisdomjobs.com/e-university/game-developing-tutorial-261/what-goes-into-the-technical-design-document-6744.html)
-[Game Development and Production, Erik Bethke](http://index-of.co.uk/Game-Development/Designing/Game%20Development%20and%20Production.pdf)
+  
+[Example of technical design document](https://drive.google.com/file/d/1DKrVbDIjoRFQ8XfToI-LX436sGfK9nSW/view?usp=sharing)  
+
+[GitBook Phil Duncan: Technical design document](https://www.gitbook.com/book/philduncan/002-technical-design-document/details)  
+
+[What Goes into the Technical Design Document?](https://www.wisdomjobs.com/e-university/game-developing-tutorial-261/what-goes-into-the-technical-design-document-6744.html)  
+
+[Game Development and Production, Erik Bethke](http://index-of.co.uk/Game-Development/Designing/Game%20Development%20and%20Production.pdf)  
+
 
 
 
