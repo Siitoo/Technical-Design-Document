@@ -114,6 +114,13 @@ Taking an example of UI system:
 
 **Well, this is the basis, but we will discuss other important issues to be able to create a TDD.**
 
+### Builds creation  
+
+This point is quite important because if we do not know when we should get a version or like, the development will never end since you can always improve all the elements of the game.  
+We must define when we release a version of our game and all the elements that must be in order to have a valid version.  
+  
+![releaseExample](/docs/releaseexample.jpg)
+
 ### Branches policy
 
 We must define how we will work with the code throughout the development time, for this we will use the branch policies. You have to define specific branches in order to develop versions or change the current one without interrupting the rest of the team. The main branches are:  
@@ -129,8 +136,8 @@ Supporting Branches:
 *Release: all features for next release are finished.  
 
 *Hotfix: to solve critical error in master version.  
+ 
+![branchesPolicy](/docs/branches.jpg)  
 
 
-  
-![branchesPolicy](/docs/branches.jpg)
 
