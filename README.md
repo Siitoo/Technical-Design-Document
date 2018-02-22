@@ -52,11 +52,14 @@ At this point we need to know all the technical specifications of the hardware a
 
 #### Technologies used  
 
-Of the technology that we are going to use in our project, for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? Static or dynamic compilation?
+Of the technology that we are going to use in our project, for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? Static or dynamic compilation?  
+Diferences:
+
+![staticdynamic](/docs/staticdynamic.jpg)
 
 #### File types
 
-What types of files are we going to use?  
+What types of files are we going to use in the developement?  
 
 For images jpg, png, etc?  
 
@@ -67,6 +70,8 @@ For the music and the sounds effects?
 For the documents? 
 
 In this section we detail all the types of files that will be included in the development process, their extensions, their maximum capacity and their characteristics.
+
+![filetypes](/docs/filetipes.jpg)
 
 #### Data layout
 
