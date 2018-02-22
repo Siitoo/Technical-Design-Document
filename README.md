@@ -114,8 +114,11 @@ Tool instructions provide information on how to use the tools.
 
 Tool instructions provide information on how to use the tools. For example, an engineer and designer will work together to document how the scripting tools work. 
 These tool instructions must be updated when any changes are made to the tool functionality; otherwise, the documentation will quickly become unhelpful and even obsolete.
-Taking an example of UI system:
-(insert image and explication)
+
+And provide information of programs with which version and how do you use:
+
+![tools](/docs/toolsInstrictions.jpg)
+
 
 **Well, this is the basis, but we will discuss other important issues to be able to create a TDD.**
 
