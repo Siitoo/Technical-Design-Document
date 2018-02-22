@@ -254,7 +254,10 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 *Define all the tools we will use and how they work  
 
-## Links to documentation
+## Links to documentation  
+
+[Presentation](https://docs.google.com/presentation/d/1zTa6Uu6bM8MYCuAZbUWg7svjje49CHqAtlk0r9i_30U/edit?usp=sharing)  
+
 [Coding Conventions C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)  
 
 [Programming style](https://en.wikipedia.org/wiki/Programming_style)  
