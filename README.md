@@ -117,7 +117,7 @@ These tool instructions must be updated when any changes are made to the tool fu
 
 And provide information of programs with which version and how do you use:
 
-![tools](/docs/toolsInstrictions.jpg)
+![tools](/docs/toolsInstructions.jpg)
 
 
 **Well, this is the basis, but we will discuss other important issues to be able to create a TDD.**
