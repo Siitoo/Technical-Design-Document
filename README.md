@@ -104,16 +104,16 @@ A package diagram is a good idea to make an outline of how we will organize all 
 
 ### Technical design
 
-Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
-Tool instructions provide information on how to use the tools. 
+"Technical design documentation is the counterpart to design documentation. The engineers will read through the design documents and provide technical information on how  the features will be coded for the game. This documentation is disseminated to the appropriate engineers on the team for implementation.
+Tool instructions provide information on how to use the tools."(The Game Production Handbook, Heather Maxwell Chandler) 
 
 ![exampleTechDesign](/docs/exampleTechDesign.jpg)
 
 
-### Tools Instructions
+### Tools Instructions  
 
-Tool instructions provide information on how to use the tools. For example, an engineer and designer will work together to document how the scripting tools work. 
-These tool instructions must be updated when any changes are made to the tool functionality; otherwise, the documentation will quickly become unhelpful and even obsolete.
+"Tool instructions provide information on how to use the tools. For example, an engineer and designer will work together to document how the scripting tools work. 
+These tool instructions must be updated when any changes are made to the tool functionality; otherwise, the documentation will quickly become unhelpful and even obsolete."(The Game Production Handbook, Heather Maxwell Chandler)
 
 And provide information of programs with which version and how do you use:
 
