@@ -270,6 +270,8 @@ The image below shows the [Brofiler tool](http://www.brofiler.com/)
 
 [What Goes into the Technical Design Document?](https://www.wisdomjobs.com/e-university/game-developing-tutorial-261/what-goes-into-the-technical-design-document-6744.html)  
 
+[The Game Production Handbook, Heather Maxwell Chandler](https://books.google.es/books/about/The_Game_Production_Handbook.html?id=laiOw5WkdEcC&redir_esc=y)
+
 [Game Development and Production, Erik Bethke](http://index-of.co.uk/Game-Development/Designing/Game%20Development%20and%20Production.pdf)  
 
 
