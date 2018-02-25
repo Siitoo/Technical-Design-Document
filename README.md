@@ -50,9 +50,12 @@ At this point we need to know all the technical specifications of the hardware a
 
 *Ram
 
+Also we must specify what are the minimum requirements and recommended to run our game and if you need any additional software such as Direct X.
+
+
 #### Technologies used  
 
-Of the technology that we are going to use in our project, for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? Static or dynamic compilation?  
+Of the technology that we are going to use in our project(external libraries), for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? (Static)[https://www.usenix.org/legacy/publications/library/proceedings/jvm02/yu/yu_html/node3.html] or (dynamic)[http://wiki.c2.com/?DynamicCompilation] compilation?  
 Diferences:
 
 ![staticdynamic](/docs/staticdynamic.jpg)
