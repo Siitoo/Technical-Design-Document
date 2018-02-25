@@ -34,7 +34,9 @@ See [coding conventions c++](http://geosoft.no/development/cppstyle.html).
 
 With the objective that all the programmers of the project use the same style to facilitate the reading of the code, rules will be defined to create a style for all. For example:
 
-![conventions](/docs/conventions.jpg)
+![conventions](/docs/conventions.jpg)  
+
+Apart from those shown in the image, it is often defined: the variations in the names for the pointers, the file headers, how to create a function, the structure of the classes, etc.
 
 #### Hardware and software specifications
 
@@ -55,7 +57,7 @@ Also we must specify what are the minimum requirements and recommended to run ou
 
 #### Technologies used  
 
-Of the technology that we are going to use in our project(external libraries), for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? (Static)[https://www.usenix.org/legacy/publications/library/proceedings/jvm02/yu/yu_html/node3.html] or (dynamic)[http://wiki.c2.com/?DynamicCompilation] compilation?  
+Of the technology that we are going to use in our project(external libraries), for example the STL libraries, that we are going to use? Not? Will we use it through a .dll? [Static](https://www.usenix.org/legacy/publications/library/proceedings/jvm02/yu/yu_html/node3.html) or [dynamic](http://wiki.c2.com/?DynamicCompilation) compilation?  
 Diferences:
 
 ![staticdynamic](/docs/staticdynamic.jpg)
